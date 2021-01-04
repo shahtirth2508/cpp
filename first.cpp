@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    int t;
+    int t,w;
     cin >> t;
     //this is comment for github.
     while (t-- > 0)
