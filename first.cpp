@@ -7,13 +7,13 @@ int main()
 
     int t;
     cin >> t;
-
+    //this is comment for github.
     while (t-- > 0)
     {
         int n, k;
         cin >> n >> k;
         int a[n];
-        int c = 0, s = 0;
+        int c = 0, s = 0, i;
 
         if (n % 2 == 0)
         {
